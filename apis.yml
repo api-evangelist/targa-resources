@@ -1,7 +1,11 @@
 aid: targa-resources
-url: https://raw.githubusercontent.com/api-evangelist/targa-resources/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/targa-resources/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.targa-resources.com
+description: >-
+  Targa Resources is one of the largest independent midstream energy companies in
+  North America, providing midstream natural gas and natural gas liquid services.
