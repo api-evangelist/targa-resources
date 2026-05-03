@@ -1,33 +1,23 @@
-# Targa Resources (targa-resources)
-Targa Resources is a Fortune 500 company. This repository captures the APIs, developer tools, and machine-readable API artifacts for Targa Resources.
+# Targa Resources
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/targa-resources/refs/heads/main/apis.yml)
+Targa Resources Corp. is a Fortune 500 and S&P 500 midstream energy infrastructure company and one of the largest independent midstream companies in North America. The company provides midstream services including gathering, compression, treating, processing, and selling of natural gas; fractionating, treating, transporting, and selling of natural gas liquids (NGLs); and gathering, storing, terminaling and selling crude oil.
 
-## Scope
+**Website:** https://www.targaresources.com  
+**Investor Relations:** https://www.targaresources.com/investors
 
-- **Type:** Contract
-- **Position:** Consuming
-- **Access:** 3rd-Party
+## About
 
-## Tags:
+Targa Resources operates primarily in the Permian Basin, Anadarko Basin, and South Texas. The company owns the Grand Prix NGL Pipeline and provides critical midstream infrastructure to upstream producers.
 
- - Fortune 500
+Targa Resources is included in the Fortune 500 and S&P 500. The company completed the acquisition of Stakeholder Midstream in 2025 to expand its Permian Basin footprint.
 
-## Timestamps
+Targa Resources does not have a public developer API or developer program.
 
-- **Created:** 2026-03-21
-- **Modified:** 2026-03-21
+## Tags
 
-## APIs
-
-No public APIs have been documented yet. Contributions welcome.
-
-## Common Properties
-
-- [Website](https://www.targa-resources.com)
+Energy Infrastructure, Fortune 500, Midstream, Natural Gas, Natural Gas Liquids, Oil And Gas, Permian Basin
 
 ## Maintainers
 
-**FN:** API Evangelist
-
-**Email:** info@apievangelist.com
+**FN:** Kin Lane  
+**Email:** kin@apievangelist.com
