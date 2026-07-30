@@ -10,6 +10,17 @@ description: >-
   petroleum products. Targa operates primarily in the Permian Basin, Anadarko
   Basin, and South Texas production areas, and owns the Grand Prix NGL Pipeline.
 type: Index
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 image: https://www.targaresources.com/themes/custom/targa/logo.svg
 tags:
   - Energy Infrastructure
